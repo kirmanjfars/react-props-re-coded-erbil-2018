@@ -15,7 +15,5 @@ class MovieCard extends React.Component {
   }
 }
  
-ReactDOM.render(
-  <MovieCard />,
-  document.getElementById('root')
+ReactDOM.render( <MovieCard />, document.getElementById('root')
 );
